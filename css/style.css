@@ -65,7 +65,7 @@
 }
 
 .btn:hover {
-    background-color: #BBF7F7;
+    background-color: #fdff8f;
     color: #07082c;
 }
 
@@ -131,7 +131,7 @@ p {
 .navbar ul li a:hover,
 .navbar ul li a.current {
     background-color: #697097;
-    color: #BBF7F7;
+    color: #fdff8f;
 }
 
 /* Showcase */
@@ -185,7 +185,7 @@ p {
 }
 
 .home-info .text-primary {
-    color: #BBF7F7;
+    color: #fdff8f;
 }
 
 .info-content {
@@ -209,7 +209,7 @@ p {
 }
 
 .features .box:nth-child(2) {
-    background-color: #BBF7F7;
+    background-color: #fdff8f;
     color: #07082c;
 }
 
@@ -275,7 +275,7 @@ p {
 }
 
 .gallery .grid-container > div:nth-child(2n+2) {
-    border: 3px solid #BBF7F7;
+    border: 3px solid #fdff8f;
 } 
 
 .gallery .grid-container > div img {
